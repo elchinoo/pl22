@@ -12,5 +12,5 @@ I would like to emphasize that understand the reasons why we chose the architect
 
 As we can see below we'll implement a cluster with 3 nodes, 1 primay and 2 replicas: 
 
-![PostgreSQL HA architecture with Patroni and HAProxy](/pg_ha/pg_ha_patroni.png.png)
+![PostgreSQL HA architecture with Patroni and HAProxy](https://github.com/elchinoo/pl22/blob/main/pg_ha/pg_ha_patroni.png)
 
