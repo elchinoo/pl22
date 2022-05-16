@@ -14,3 +14,8 @@ As we can see below we'll implement a cluster with 3 nodes, 1 primay and 2 repli
 
 ![PostgreSQL HA architecture with Patroni and HAProxy](https://github.com/elchinoo/pl22/blob/main/pg_ha/pg_ha_patroni.png)
 
+## Setup
+ - [Keepalived](keepalived.md)
+ - [PostgreSQL](postgresql.md)
+ - [Patroni](patroni.md)
+
