@@ -213,7 +213,7 @@ EOF
 systemctl enable patroni 
 systemctl restart patroni
 systemctl status patroni
-patronictl -c /etc/patroni/config.yml list armorblox-cluster1
+patronictl -c /etc/patroni/config.yml list 
 ```
 
 ### Nodes 2 and 3
